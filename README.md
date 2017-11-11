@@ -1,2 +1,2 @@
 # uni-gui-mandelbrot
-Uni project. Making a GUI on Java.
+Uni project. Making a GUI in Java.
